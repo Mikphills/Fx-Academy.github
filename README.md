@@ -1,2 +1,2 @@
-# Fx-Academy.github
+# Fx-Academy.github.io
 Learn Forex Basics
